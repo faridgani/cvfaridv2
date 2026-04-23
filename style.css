@@ -84,9 +84,9 @@
         .tech-stack { display: flex; flex-wrap: wrap; gap: 8px; }
         .tech-tag {
             background: #f3f4f6;
-            padding: 4px 12px;
+            padding: 4px 10px;
             border-radius: 4px;
-            font-size: 0.75rem;
+            font-size: 0.90rem;
             font-weight: 600;
             color: var(--primary);
         }
